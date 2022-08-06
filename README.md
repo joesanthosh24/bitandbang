@@ -4,7 +4,7 @@ It's me, Tierney!
 
 ## npm
 ```
-npx bitandbang
+npx joesanthosh24
 ```
 
 ## GitHub Package Registry
