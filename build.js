@@ -27,7 +27,7 @@ const data = {
     chalk.gray("https://linkedin.com/in/") +
     chalk.blue("joe-santhosh-183770123"),
   web: chalk.cyan("https://portfolio-joesanthosh.netlify.app"),
-  cardAcc: chalk.green("npm") + " " + chalk.white("joesanthosh24"),
+  cardAcc: chalk.green("npx") + " " + chalk.white("joesanthosh24"),
   labelWork: chalk.white.bold("    Work:"),
   labelTwitter: chalk.white.bold(" Twitter:"),
   labelnpm: chalk.white.bold("     npm:"),
